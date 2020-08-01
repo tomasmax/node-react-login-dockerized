@@ -1,6 +1,6 @@
 # LOGIN SAMPLE APP
 
-## - by [tomasmax](https://github.com/tomasmax)
+## [tomasmax](https://github.com/tomasmax)
 
 - A fullstack web app. Back end: NodeJS Express with MySQL database + Front end: ReactJS + some unit testing + dockerized ready to deploy to CI/CD
 
