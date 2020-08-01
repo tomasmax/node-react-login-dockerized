@@ -23,11 +23,11 @@
 - Front end dev local: go to `client` directory then install and run the app
 
 ```sh
-  `$ npm i && npm start`
+  `npm i && npm start`
 ```
 
 - Back end dev local: go to `server` directory then install and run the app. `(NOTE! you need to config mySQL in your localhost intall it with brew or in a docker)`
 
 ```sh
-  `$ npm i && npm start`
+  `npm i && npm start`
 ```
